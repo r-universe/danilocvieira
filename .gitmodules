@@ -7,4 +7,5 @@
 	path = segRDA
 	url = https://github.com/danilocvieira/segrda
 	shallow = true
+	subdir = segRDA
 	registered = true
