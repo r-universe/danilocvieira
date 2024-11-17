@@ -5,4 +5,9 @@
     "via": ["glitter"],
     "from": "glitter"
   }
+  {
+    "package": "shiny",
+    "url": "https://github.com/rstudio/shiny"
+
+  }
 ]
