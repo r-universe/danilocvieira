@@ -1,7 +1,17 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/danilocvieira/danilocvieira.r-universe.dev
 	branch = HEAD
-[submodule "segRDA"]
-	path = segRDA
-	url = https://github.com/danilocvieira/segrda
+[submodule "cransays"]
+	path = cransays
+	url = https://github.com/lockedata/cransays
+[submodule "glitter"]
+	path = glitter
+	url = https://github.com/lvaudor/glitter
+[submodule "roblog"]
+	path = roblog
+	url = https://github.com/ropenscilabs/roblog
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	registered = false
