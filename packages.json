@@ -1,8 +1,7 @@
 [
   {
     "Package": "shiny",    
-    "url": "https://github.com/rstudio/shiny"
-
+    "url": "https://github.com/rstudio/shiny",
+     "branch" : "master"
   }
-
 ]
