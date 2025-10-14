@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/danilocvieira/danilocvieira.r-universe.dev
 	branch = HEAD
+[submodule "promises"]
+	path = promises
+	url = https://github.com/rstudio/promises
+	registered = false
 [submodule "shiny"]
 	path = shiny
 	url = https://github.com/rstudio/shiny
